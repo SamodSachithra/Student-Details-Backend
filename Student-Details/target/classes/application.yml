@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: root
+    password: Samod@2003
+    url: jdbc:mysql://localhost:3306/school
